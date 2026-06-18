@@ -6,7 +6,7 @@ presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 
 <img src="15_Thill_DFGevaluation.png" width="800">
 
-## 🗐References
+## 📙References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
 2. Chen, H., et al. (2021). Susceptibility to interference between Pavlovian and instrumental control is associated with early hazardous alcohol use. *Addiction Biology*, 26 (4), Article e12983. **https://doi.org/10.1111/adb.12983**
 3. Chen, H. et al. (2023). Susceptibility to interference between Pavlovian and instrumental control predisposes risky alcohol use developmental trajectory from ages 18 to 24. *Addiction Biology*, 28(2), Article e13263. **https://doi.org/10.1111/adb.13263**
@@ -14,6 +14,15 @@ presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 5. Sommer, C. et al. (2020). Dysfunctional approach behavior triggered by alcohol-unrelated pavlovian cues predicts long-term relapse in alcohol dependence. *Addiction Biology*, 25, Article e12703. **https://doi.org/10.1111/adb.12703**
 6. Garbusow, M. et al. (2019). Pavlovian-To-Instrumental Transfer and Alcohol Consumption in Young Male Social Drinkers: Behavioral, Neural and Polygenic Correlates, *Journal of Clinical Medicine*, 8(8),1188. **https://doi.org/10.3390/jcm8081188**
 7. Garbusow, M. et al. (2022). Pavlovian-to-instrumental transfer across mental disorders: A review. *Neuropsychobiology*, 81 (5), 418–437. **https://doi.org/10.1159/000525579**
+
+## 📑Own Manuscripts & Contributions:
+1. Thill et al. (in Prep.). *Reduced Control Over Pavlovian-to-instrumental transfer Conflicts in Alcohol Use Disorder But Not Smoking*.
+2. Thill et al. (2026; Poster Award). Beeinträchtigte Interferenzkontrolle bei Konflikten zwischen Pawlowschen und instrumentellen Mechanismen bei Alkoholkonsumstörung, nicht jedoch bei Rauchen. *6. Gemeinsamer Kongress der DGBP und AGNP*.
+3. Baeuchl et al. (2025). Erhöhter alkohol-spezifischer Pawlowsch-instrumenteller Transfer bei Alkoholkonsumstörung. *Deutscher Suchtkongress*, 2(*1*), 2292. **https://doi.org/10.18416/DSK.2025.2292**
+4. Rapp, Wiedenhöft et al. (under review). Impulsivity, loneliness, and stress in individuals with alcohol use disorder across the lifespan. *Drug and Alcohol Review*
+5. Zhou et al. (under review). The Effect of Alternative Rewards on Alcohol Consumption Varies by DSM-5 Severity: An Ecological Momentary Assessment Study. *JAMA Network Open*
+
+
 
 ## ⚠️Recommended Further Reading:
 Our group recently published a study on the reliability of our PIT paradigm:
