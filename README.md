@@ -4,6 +4,8 @@
 
 presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 
+<img src="15_Thill_DFGevaluation.png" width="800">
+
 ## 🗐References
 1. Cartoni, E. et al. (2016). Appetitive Pavlovian-instrumental transfer: A review. *Neuroscience Biobehavioral Reviews*, 71, 829–848. **https://doi.org/10.1016/j.neubiorev.2016.09.020**
 2. Chen, H., et al. (2021). Susceptibility to interference between Pavlovian and instrumental control is associated with early hazardous alcohol use. *Addiction Biology*, 26 (4), Article e12983. **https://doi.org/10.1111/adb.12983**
