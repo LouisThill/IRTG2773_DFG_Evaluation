@@ -1,6 +1,6 @@
 #  DFG Evaluation, 24.06.26 - 25.06.26
 
-📄 Poster 15:  [A Transdiagnostic Investigation of Pavlovian-to-instrumental Transfer and Its Neurocognitive Underpinnings](./15_Thill_DFGevaluation.pdf)
+📄 Poster 15:  [A Transdiagnostic Investigation of Pavlovian-to-instrumental Transfer and Its Neurocognitive Underpinnings (PDF)](./15_Thill_DFGevaluation.pdf)
 
 presented by: [Louis Thill](https://github.com/louisthill/louisthill)
 
